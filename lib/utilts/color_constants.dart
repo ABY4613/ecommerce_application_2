@@ -9,6 +9,7 @@ class ColorConstants{
      static const GREYSHADE4 = Color(0xffF626262);
      static const WHITE = Color(0xffFFFFFFF);
      static const GREYSHADE5 = Color(0xffF575757);
+     static const SCAFFOLDBG = Color(0xffFF9F9F9);
 
      
 

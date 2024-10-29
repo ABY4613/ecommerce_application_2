@@ -4,5 +4,6 @@ class ImageConstants{
   static const ONBOARDING2 = "assets/images/onboarding2.png";
   static const ONBOARDING3 = "assets/images/onboarding3.jpg";
   static const GETSTART = "assets/images/getstart.png";
+  static const ADS = "assets/images/ads.png";
  
 }
